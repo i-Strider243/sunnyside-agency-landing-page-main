@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Sunnyside Agency | Desktop View](screenshots/Desktop-view_20-8-2022_23211_.jpeg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-js-4Sc1hjtKe4)
+- Live Site URL: [Live site URL here](https://i-strider243.github.io/sunnyside-agency-landing-page-main/)
 
 ## My process
 
